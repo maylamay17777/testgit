@@ -1,2 +1,5 @@
 Hello Master
 Them develop
+<?php
+echo "Tin hoc vui that"
+?>
